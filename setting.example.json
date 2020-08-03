@@ -1,0 +1,14 @@
+{
+  "PORT": 80,
+  "USE_SSL": false,
+  "SSL_CERT": "YOUR_SSL_CERT",
+  "SSL_KEY": "YOUR_SSL_KEY",
+
+  "INDEX": [ "index.htm" , "index.html" ],
+
+  "ALLOW_IP": [
+    "YOUR_IP"
+  ],
+
+  "CALLIBRATION": 50
+}
